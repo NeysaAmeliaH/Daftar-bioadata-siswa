@@ -1,4 +1,4 @@
-Daftar-bioadata-siswa
+Daftar-biodata-siswa
 ==
 Daftar biodata siswa dicoding academy
 --
